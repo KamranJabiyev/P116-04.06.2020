@@ -1,0 +1,9 @@
+E:\P116\WindowsFormsAppTask\WindowsFormsAppTask\bin\Debug\WindowsFormsAppTask.exe.config
+E:\P116\WindowsFormsAppTask\WindowsFormsAppTask\bin\Debug\WindowsFormsAppTask.exe
+E:\P116\WindowsFormsAppTask\WindowsFormsAppTask\bin\Debug\WindowsFormsAppTask.pdb
+E:\P116\WindowsFormsAppTask\WindowsFormsAppTask\obj\Debug\WindowsFormsAppTask.csprojAssemblyReference.cache
+E:\P116\WindowsFormsAppTask\WindowsFormsAppTask\obj\Debug\WindowsFormsAppTask.Properties.Resources.resources
+E:\P116\WindowsFormsAppTask\WindowsFormsAppTask\obj\Debug\WindowsFormsAppTask.csproj.GenerateResource.cache
+E:\P116\WindowsFormsAppTask\WindowsFormsAppTask\obj\Debug\WindowsFormsAppTask.exe
+E:\P116\WindowsFormsAppTask\WindowsFormsAppTask\obj\Debug\WindowsFormsAppTask.pdb
+E:\P116\WindowsFormsAppTask\WindowsFormsAppTask\obj\Debug\WindowsFormsAppTask.Form1.resources

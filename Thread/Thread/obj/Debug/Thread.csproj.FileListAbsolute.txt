@@ -1,0 +1,6 @@
+E:\P116\Thread\Thread\bin\Debug\Thread.exe.config
+E:\P116\Thread\Thread\bin\Debug\Thread.exe
+E:\P116\Thread\Thread\bin\Debug\Thread.pdb
+E:\P116\Thread\Thread\obj\Debug\Thread.csprojAssemblyReference.cache
+E:\P116\Thread\Thread\obj\Debug\Thread.exe
+E:\P116\Thread\Thread\obj\Debug\Thread.pdb
